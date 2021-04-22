@@ -1,6 +1,6 @@
 - Hi, I’m @jaffry
 - I like lists.
-- I’m currently learning how to makethe most of Github.
+- I’m currently learning how to make the most of Github.
 - I’m looking to stop, collaborate, and listen.
 
 
